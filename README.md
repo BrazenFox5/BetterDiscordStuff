@@ -11,3 +11,7 @@ Please note that I am only 14 and only know the basics of *.css, so I barely kno
 4. Reddit: https://www.reddit.com/user/ps4_nah_ps360
 # To share:
 the link is https://www.github.com/BrazenFox5/BetterDiscord_ThemesPlugins.
+# Themes (*.theme.css)
+1. Comic Sans
+*User w/ messages* ![image](https://user-images.githubusercontent.com/80448295/113796278-b7d7c780-9703-11eb-931e-e1a14804cc18.png)
+*User only* ![image](https://user-images.githubusercontent.com/80448295/113796361-ef467400-9703-11eb-9064-660cb8ebb8a4.png)
