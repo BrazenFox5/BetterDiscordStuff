@@ -16,4 +16,4 @@ So if your confused, I named this Determination Mono, because I thought it was h
 
 
 # archive
-Hello! So if you didn't know, this has been transferred over by https://github.com/BrazenFox5/comic-sans. This folder in this repository will be active instead. Please note in the old respoitory, it will only by a old build.
+Hello! So if you didn't know, this has been transferred over by https://github.com/BrazenFox5/comic-sans. This folder in this repository will be active instead. Please note in the old respoitory, it will only have the old builds.
