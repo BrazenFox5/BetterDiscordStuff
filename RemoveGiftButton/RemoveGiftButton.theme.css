@@ -1,0 +1,12 @@
+/**
+ * @name RemoveGiftButton
+ * @author NostalgiaStuff
+ * @authorId 475078049306771478
+ * @version 0.9.2
+ * @description Removes the gift button from text area in server channels & DMs. The gift button is used to gift a friend nitro but it gets in the way. (v0.9.2, for some fucking reason, I decided to put *.css in *.js because I thought it was JavaScript. Enjoy the nice *.theme.css instead. 🤦‍♂️)
+ * @invite e3t2vXd
+ */
+
+.buttons-3JBrkn>[aria-label]{
+    display:none;
+  }
